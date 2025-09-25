@@ -46,8 +46,8 @@ Hi, I’m **Abdelrhman Tarek Abdelmawla**, a **Computers and Systems Engineer** 
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrhman%20Tarek-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/abdelrhman-tarek](https://www.linkedin.com/in/abdelrhman-tarek/))  
-[![GitHub](https://img.shields.io/badge/GitHub-Abdelrhman--Tarek-black?logo=github)]([https://github.com/abdelrhman-tarek](https://github.com/Abdelrhmantarekabdelmawla))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrhman%20Tarek-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abdelrhman-tarek/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Abdelrhman--Tarek-black?logo=github)]((https://github.com/Abdelrhmantarekabdelmawla))  
 
 ---
 
