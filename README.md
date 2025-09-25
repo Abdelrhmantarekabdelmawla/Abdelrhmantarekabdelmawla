@@ -40,7 +40,7 @@ Hi, I’m **Abdelrhman Tarek Abdelmawla**, a **Computers and Systems Engineer** 
   - Implemented using **YOLOP, Ultra-Fast Lane Detection (UFLD)** in the CARLA simulator.
 
 - **ScoutAI** ⚽  
-  AI-powered platform that helps football talents get recognized by scouts and clubs using YOLOv9 for player detection and analysis.
+  AI-powered platform that helps football talents get recognized by scouts.
   
 ---
 
